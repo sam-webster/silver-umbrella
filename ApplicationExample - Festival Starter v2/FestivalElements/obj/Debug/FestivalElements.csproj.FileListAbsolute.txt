@@ -1,0 +1,12 @@
+C:\Users\Sam\Documents\_Uni Stuff\ApplicationExample - Festival Starter\FestivalElements\bin\Debug\FestivalElements.dll
+C:\Users\Sam\Documents\_Uni Stuff\ApplicationExample - Festival Starter\FestivalElements\bin\Debug\FestivalElements.pdb
+C:\Users\Sam\Documents\_Uni Stuff\ApplicationExample - Festival Starter\FestivalElements\obj\Debug\FestivalElements.csprojResolveAssemblyReference.cache
+C:\Users\Sam\Documents\_Uni Stuff\ApplicationExample - Festival Starter\FestivalElements\obj\Debug\FestivalElements.csproj.CoreCompileInputs.cache
+C:\Users\Sam\Documents\_Uni Stuff\ApplicationExample - Festival Starter\FestivalElements\obj\Debug\FestivalElements.dll
+C:\Users\Sam\Documents\_Uni Stuff\ApplicationExample - Festival Starter\FestivalElements\obj\Debug\FestivalElements.pdb
+C:\Users\Sam\Documents\_Uni Stuff\ApplicationExample - Festival Starter v2\FestivalElements\bin\Debug\FestivalElements.dll
+C:\Users\Sam\Documents\_Uni Stuff\ApplicationExample - Festival Starter v2\FestivalElements\bin\Debug\FestivalElements.pdb
+C:\Users\Sam\Documents\_Uni Stuff\ApplicationExample - Festival Starter v2\FestivalElements\obj\Debug\FestivalElements.csprojResolveAssemblyReference.cache
+C:\Users\Sam\Documents\_Uni Stuff\ApplicationExample - Festival Starter v2\FestivalElements\obj\Debug\FestivalElements.csproj.CoreCompileInputs.cache
+C:\Users\Sam\Documents\_Uni Stuff\ApplicationExample - Festival Starter v2\FestivalElements\obj\Debug\FestivalElements.dll
+C:\Users\Sam\Documents\_Uni Stuff\ApplicationExample - Festival Starter v2\FestivalElements\obj\Debug\FestivalElements.pdb

@@ -1,0 +1,7 @@
+C:\Users\Sam\Documents\_Uni Stuff\ApplicationExample - Festival Starter\ApplicationExample\obj\Debug\FestivalDesignerWindow.csprojResolveAssemblyReference.cache
+C:\Users\Sam\Documents\_Uni Stuff\ApplicationExample - Festival Starter\ApplicationExample\obj\Debug\FestivalDesignerWindow.g.cs
+C:\Users\Sam\Documents\_Uni Stuff\ApplicationExample - Festival Starter\ApplicationExample\obj\Debug\App.g.cs
+C:\Users\Sam\Documents\_Uni Stuff\ApplicationExample - Festival Starter\ApplicationExample\obj\Debug\ApplicationExample_MarkupCompile.cache
+C:\Users\Sam\Documents\_Uni Stuff\ApplicationExample - Festival Starter\ApplicationExample\obj\Debug\ApplicationExample_MarkupCompile.lref
+C:\Users\Sam\Documents\_Uni Stuff\ApplicationExample - Festival Starter\ApplicationExample\obj\Debug\ApplicationExample.exe
+C:\Users\Sam\Documents\_Uni Stuff\ApplicationExample - Festival Starter\ApplicationExample\obj\Debug\ApplicationExample.pdb

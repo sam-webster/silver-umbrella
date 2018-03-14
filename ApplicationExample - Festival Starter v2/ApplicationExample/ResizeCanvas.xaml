@@ -1,0 +1,28 @@
+﻿<Window x:Class="ApplicationExample.ResizeCanvas"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ApplicationExample"
+        mc:Ignorable="d"
+        Height="300" Width="300" Title="ResizeCanvas" >
+    <Grid Margin="20">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*" />
+            <RowDefinition Height="*" />
+            <RowDefinition Height="*" />
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="80" />
+            <ColumnDefinition Width="180" />
+        </Grid.ColumnDefinitions>
+        <Label Content="Resize your Canvas:" Grid.ColumnSpan="2" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" />
+        <Label Content="Width:" Grid.Row="1" VerticalContentAlignment="Center"/>
+        <TextBox x:Name="textBoxCanvasWidth" Grid.Row="1" Grid.Column="1" Margin="10" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" />
+        <Label Content="Height:" Grid.Row="2" VerticalContentAlignment="Center"/>
+        <TextBox x:Name="textBoxCanvasHeight" Grid.Row="2" Grid.Column="1" Margin="10" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" />
+        <Button x:Name="buttonUpdate" Content="Resize" Grid.Row="3" Margin="10" Width="60" Click="buttonUpdate_Click"/>
+        <Button x:Name="buttonCancel" Content="Cancel" Grid.Row="3" Grid.Column="1" Margin="10" Width="60" HorizontalContentAlignment="Center" HorizontalAlignment="Left"/>
+    </Grid>
+</Window>

@@ -1,0 +1,119 @@
+F:\Dave Files\Development\ApplicationExample\ApplicationExample\bin\Debug\ApplicationExample.exe.config
+F:\Dave Files\Development\ApplicationExample\ApplicationExample\bin\Debug\ApplicationExample.exe
+F:\Dave Files\Development\ApplicationExample\ApplicationExample\bin\Debug\ApplicationExample.pdb
+F:\Dave Files\Development\ApplicationExample\ApplicationExample\obj\Debug\ApplicationExample.csprojResolveAssemblyReference.cache
+F:\Dave Files\Development\ApplicationExample\ApplicationExample\obj\Debug\MainWindow.g.cs
+F:\Dave Files\Development\ApplicationExample\ApplicationExample\obj\Debug\App.g.cs
+F:\Dave Files\Development\ApplicationExample\ApplicationExample\obj\Debug\ApplicationExample_MarkupCompile.cache
+F:\Dave Files\Development\ApplicationExample\ApplicationExample\obj\Debug\ApplicationExample_MarkupCompile.lref
+F:\Dave Files\Development\ApplicationExample\ApplicationExample\obj\Debug\MainWindow.baml
+F:\Dave Files\Development\ApplicationExample\ApplicationExample\obj\Debug\ApplicationExample.g.resources
+F:\Dave Files\Development\ApplicationExample\ApplicationExample\obj\Debug\ApplicationExample.Properties.Resources.resources
+F:\Dave Files\Development\ApplicationExample\ApplicationExample\obj\Debug\ApplicationExample.csproj.GenerateResource.Cache
+F:\Dave Files\Development\ApplicationExample\ApplicationExample\obj\Debug\ApplicationExample.exe
+F:\Dave Files\Development\ApplicationExample\ApplicationExample\obj\Debug\ApplicationExample.pdb
+M:\HE SYSDEV\ApplicationExample (2)\ApplicationExample\ApplicationExample\bin\Debug\ApplicationExample.exe.config
+M:\HE SYSDEV\ApplicationExample (2)\ApplicationExample\ApplicationExample\obj\Debug\ApplicationExample.exe
+M:\HE SYSDEV\ApplicationExample (2)\ApplicationExample\ApplicationExample\obj\Debug\ApplicationExample.pdb
+M:\HE SYSDEV\ApplicationExample (2)\ApplicationExample\ApplicationExample\bin\Debug\ApplicationExample.exe
+M:\HE SYSDEV\ApplicationExample (2)\ApplicationExample\ApplicationExample\bin\Debug\ApplicationExample.pdb
+M:\HE SYSDEV\ApplicationExample (2)\ApplicationExample\ApplicationExample\obj\Debug\ApplicationExample.csprojResolveAssemblyReference.cache
+M:\HE SYSDEV\ApplicationExample (2)\ApplicationExample\ApplicationExample\obj\Debug\MainWindow.g.cs
+M:\HE SYSDEV\ApplicationExample (2)\ApplicationExample\ApplicationExample\obj\Debug\App.g.cs
+M:\HE SYSDEV\ApplicationExample (2)\ApplicationExample\ApplicationExample\obj\Debug\ApplicationExample_MarkupCompile.cache
+M:\HE SYSDEV\ApplicationExample (2)\ApplicationExample\ApplicationExample\obj\Debug\ApplicationExample_MarkupCompile.lref
+M:\HE SYSDEV\ApplicationExample (2)\ApplicationExample\ApplicationExample\obj\Debug\MainWindow.baml
+M:\HE SYSDEV\ApplicationExample (2)\ApplicationExample\ApplicationExample\obj\Debug\ApplicationExample.g.resources
+M:\HE SYSDEV\ApplicationExample (2)\ApplicationExample\ApplicationExample\obj\Debug\ApplicationExample.Properties.Resources.resources
+M:\HE SYSDEV\ApplicationExample (2)\ApplicationExample\ApplicationExample\obj\Debug\ApplicationExample.csproj.GenerateResource.Cache
+C:\Documents\Academic Year 2017-18\HE SYSDEV\ApplicationExample\ApplicationExample\bin\Debug\ApplicationExample.exe.config
+C:\Documents\Academic Year 2017-18\HE SYSDEV\ApplicationExample\ApplicationExample\bin\Debug\ApplicationExample.exe
+C:\Documents\Academic Year 2017-18\HE SYSDEV\ApplicationExample\ApplicationExample\bin\Debug\ApplicationExample.pdb
+C:\Documents\Academic Year 2017-18\HE SYSDEV\ApplicationExample\ApplicationExample\obj\Debug\ApplicationExample.csprojResolveAssemblyReference.cache
+C:\Documents\Academic Year 2017-18\HE SYSDEV\ApplicationExample\ApplicationExample\obj\Debug\MainWindow.g.cs
+C:\Documents\Academic Year 2017-18\HE SYSDEV\ApplicationExample\ApplicationExample\obj\Debug\App.g.cs
+C:\Documents\Academic Year 2017-18\HE SYSDEV\ApplicationExample\ApplicationExample\obj\Debug\ApplicationExample_MarkupCompile.cache
+C:\Documents\Academic Year 2017-18\HE SYSDEV\ApplicationExample\ApplicationExample\obj\Debug\ApplicationExample_MarkupCompile.lref
+C:\Documents\Academic Year 2017-18\HE SYSDEV\ApplicationExample\ApplicationExample\obj\Debug\MainWindow.baml
+C:\Documents\Academic Year 2017-18\HE SYSDEV\ApplicationExample\ApplicationExample\obj\Debug\ApplicationExample.g.resources
+C:\Documents\Academic Year 2017-18\HE SYSDEV\ApplicationExample\ApplicationExample\obj\Debug\ApplicationExample.Properties.Resources.resources
+C:\Documents\Academic Year 2017-18\HE SYSDEV\ApplicationExample\ApplicationExample\obj\Debug\ApplicationExample.csproj.GenerateResource.Cache
+C:\Documents\Academic Year 2017-18\HE SYSDEV\ApplicationExample\ApplicationExample\obj\Debug\ApplicationExample.exe
+C:\Documents\Academic Year 2017-18\HE SYSDEV\ApplicationExample\ApplicationExample\obj\Debug\ApplicationExample.pdb
+E:\Academic Year 2017-18\HE SYSDEV\ApplicationExample - Multiple Shapes\ApplicationExample\obj\Debug\ApplicationExample.csprojResolveAssemblyReference.cache
+E:\Academic Year 2017-18\HE SYSDEV\ApplicationExample - Multiple Shapes\ApplicationExample\obj\Debug\MainWindow.g.cs
+E:\Academic Year 2017-18\HE SYSDEV\ApplicationExample - Multiple Shapes\ApplicationExample\obj\Debug\App.g.cs
+E:\Academic Year 2017-18\HE SYSDEV\ApplicationExample - Multiple Shapes\ApplicationExample\obj\Debug\ApplicationExample_MarkupCompile.cache
+E:\Academic Year 2017-18\HE SYSDEV\ApplicationExample - Multiple Shapes\ApplicationExample\obj\Debug\ApplicationExample_MarkupCompile.lref
+E:\Academic Year 2017-18\HE SYSDEV\ApplicationExample - Multiple Shapes\ApplicationExample\obj\Debug\ApplicationExample.exe
+E:\Academic Year 2017-18\HE SYSDEV\ApplicationExample - Multiple Shapes\ApplicationExample\obj\Debug\ApplicationExample.pdb
+E:\Academic Year 2017-18\HE GAMETLS\ApplicationExample - Multiple Shapes\ApplicationExample\obj\Debug\ApplicationExample.csprojResolveAssemblyReference.cache
+E:\Academic Year 2017-18\HE GAMETLS\ApplicationExample - Multiple Shapes\ApplicationExample\obj\Debug\MainWindow.g.cs
+E:\Academic Year 2017-18\HE GAMETLS\ApplicationExample - Multiple Shapes\ApplicationExample\obj\Debug\App.g.cs
+E:\Academic Year 2017-18\HE GAMETLS\ApplicationExample - Multiple Shapes\ApplicationExample\obj\Debug\ApplicationExample_MarkupCompile.cache
+E:\Academic Year 2017-18\HE GAMETLS\ApplicationExample - Multiple Shapes\ApplicationExample\obj\Debug\ApplicationExample_MarkupCompile.lref
+E:\Academic Year 2017-18\HE GAMETLS\ApplicationExample - Multiple Shapes\ApplicationExample\obj\Debug\ApplicationExample.exe
+E:\Academic Year 2017-18\HE GAMETLS\ApplicationExample - Multiple Shapes\ApplicationExample\obj\Debug\ApplicationExample.pdb
+E:\Academic Year 2017-18\HE GAMETLS\ApplicationExample - Multiple Shapes\ApplicationExample\bin\Debug\ApplicationExample.exe.config
+E:\Academic Year 2017-18\HE GAMETLS\ApplicationExample - Multiple Shapes\ApplicationExample\bin\Debug\ApplicationExample.exe
+E:\Academic Year 2017-18\HE GAMETLS\ApplicationExample - Multiple Shapes\ApplicationExample\bin\Debug\ApplicationExample.pdb
+E:\Academic Year 2017-18\HE GAMETLS\ApplicationExample - Multiple Shapes\ApplicationExample\obj\Debug\MainWindow.baml
+E:\Academic Year 2017-18\HE GAMETLS\ApplicationExample - Multiple Shapes\ApplicationExample\obj\Debug\ApplicationExample.g.resources
+E:\Academic Year 2017-18\HE GAMETLS\ApplicationExample - Multiple Shapes\ApplicationExample\obj\Debug\ApplicationExample.Properties.Resources.resources
+E:\Academic Year 2017-18\HE GAMETLS\ApplicationExample - Multiple Shapes\ApplicationExample\obj\Debug\ApplicationExample.csproj.GenerateResource.Cache
+E:\Academic Year 2017-18\HE SYSDEV\ApplicationExample - Festival Starter\ApplicationExample\obj\Debug\ApplicationExample.csprojResolveAssemblyReference.cache
+E:\Academic Year 2017-18\HE SYSDEV\ApplicationExample - Festival Starter\ApplicationExample\obj\Debug\MainWindow.g.cs
+E:\Academic Year 2017-18\HE SYSDEV\ApplicationExample - Festival Starter\ApplicationExample\obj\Debug\App.g.cs
+E:\Academic Year 2017-18\HE SYSDEV\ApplicationExample - Festival Starter\ApplicationExample\obj\Debug\ApplicationExample_MarkupCompile.cache
+E:\Academic Year 2017-18\HE SYSDEV\ApplicationExample - Festival Starter\ApplicationExample\obj\Debug\ApplicationExample_MarkupCompile.lref
+E:\Academic Year 2017-18\HE SYSDEV\ApplicationExample - Festival Starter\ApplicationExample\obj\Debug\MainWindow.baml
+E:\Academic Year 2017-18\HE SYSDEV\ApplicationExample - Festival Starter\ApplicationExample\obj\Debug\ApplicationExample.g.resources
+E:\Academic Year 2017-18\HE SYSDEV\ApplicationExample - Festival Starter\ApplicationExample\obj\Debug\ApplicationExample.csproj.GenerateResource.Cache
+E:\Academic Year 2017-18\HE SYSDEV\ApplicationExample - Festival Starter\ApplicationExample\obj\Debug\ApplicationExample.pdb
+E:\Academic Year 2017-18\HE SYSDEV\ApplicationExample - Festival Starter\ApplicationExample\bin\Debug\ApplicationExample.exe.config
+E:\Academic Year 2017-18\HE SYSDEV\ApplicationExample - Festival Starter\ApplicationExample\bin\Debug\ApplicationExample.exe
+E:\Academic Year 2017-18\HE SYSDEV\ApplicationExample - Festival Starter\ApplicationExample\bin\Debug\ApplicationExample.pdb
+E:\Academic Year 2017-18\HE SYSDEV\ApplicationExample - Festival Starter\ApplicationExample\obj\Debug\ApplicationExample.Properties.Resources.resources
+E:\Academic Year 2017-18\HE SYSDEV\ApplicationExample - Festival Starter\ApplicationExample\obj\Debug\ApplicationExample.exe
+C:\Users\Sam\Documents\_Uni Stuff\ApplicationExample - Festival Starter\ApplicationExample\obj\Debug\ApplicationExample.csprojResolveAssemblyReference.cache
+C:\Users\Sam\Documents\_Uni Stuff\ApplicationExample - Festival Starter\ApplicationExample\obj\Debug\App.g.cs
+C:\Users\Sam\Documents\_Uni Stuff\ApplicationExample - Festival Starter\ApplicationExample\obj\Debug\ApplicationExample_MarkupCompile.cache
+C:\Users\Sam\Documents\_Uni Stuff\ApplicationExample - Festival Starter\ApplicationExample\obj\Debug\ApplicationExample_MarkupCompile.lref
+C:\Users\Sam\Documents\_Uni Stuff\ApplicationExample - Festival Starter\ApplicationExample\bin\Debug\ApplicationExample.exe.config
+C:\Users\Sam\Documents\_Uni Stuff\ApplicationExample - Festival Starter\ApplicationExample\bin\Debug\ApplicationExample.exe
+C:\Users\Sam\Documents\_Uni Stuff\ApplicationExample - Festival Starter\ApplicationExample\bin\Debug\ApplicationExample.pdb
+C:\Users\Sam\Documents\_Uni Stuff\ApplicationExample - Festival Starter\ApplicationExample\bin\Debug\FestivalElements.dll
+C:\Users\Sam\Documents\_Uni Stuff\ApplicationExample - Festival Starter\ApplicationExample\bin\Debug\SaveSystem.dll
+C:\Users\Sam\Documents\_Uni Stuff\ApplicationExample - Festival Starter\ApplicationExample\bin\Debug\FestivalElements.pdb
+C:\Users\Sam\Documents\_Uni Stuff\ApplicationExample - Festival Starter\ApplicationExample\bin\Debug\SaveSystem.pdb
+C:\Users\Sam\Documents\_Uni Stuff\ApplicationExample - Festival Starter\ApplicationExample\obj\Debug\ApplicationExample.g.resources
+C:\Users\Sam\Documents\_Uni Stuff\ApplicationExample - Festival Starter\ApplicationExample\obj\Debug\ApplicationExample.Properties.Resources.resources
+C:\Users\Sam\Documents\_Uni Stuff\ApplicationExample - Festival Starter\ApplicationExample\obj\Debug\ApplicationExample.csproj.GenerateResource.Cache
+C:\Users\Sam\Documents\_Uni Stuff\ApplicationExample - Festival Starter\ApplicationExample\obj\Debug\ApplicationExample.csproj.CoreCompileInputs.cache
+C:\Users\Sam\Documents\_Uni Stuff\ApplicationExample - Festival Starter\ApplicationExample\obj\Debug\ApplicationExample.exe
+C:\Users\Sam\Documents\_Uni Stuff\ApplicationExample - Festival Starter\ApplicationExample\obj\Debug\ApplicationExample.pdb
+C:\Users\Sam\Documents\_Uni Stuff\ApplicationExample - Festival Starter\ApplicationExample\obj\Debug\MainWindow.g.cs
+C:\Users\Sam\Documents\_Uni Stuff\ApplicationExample - Festival Starter\ApplicationExample\obj\Debug\MainWindow.baml
+C:\Users\Sam\Documents\_Uni Stuff\ApplicationExample - Festival Starter\ApplicationExample\obj\Debug\ResizeCanvas.g.cs
+C:\Users\Sam\Documents\_Uni Stuff\ApplicationExample - Festival Starter\ApplicationExample\obj\Debug\ResizeCanvas.baml
+C:\Users\Sam\Documents\_Uni Stuff\ApplicationExample - Festival Starter v2\ApplicationExample\bin\Debug\ApplicationExample.exe.config
+C:\Users\Sam\Documents\_Uni Stuff\ApplicationExample - Festival Starter v2\ApplicationExample\bin\Debug\ApplicationExample.exe
+C:\Users\Sam\Documents\_Uni Stuff\ApplicationExample - Festival Starter v2\ApplicationExample\bin\Debug\ApplicationExample.pdb
+C:\Users\Sam\Documents\_Uni Stuff\ApplicationExample - Festival Starter v2\ApplicationExample\bin\Debug\FestivalElements.dll
+C:\Users\Sam\Documents\_Uni Stuff\ApplicationExample - Festival Starter v2\ApplicationExample\bin\Debug\SaveSystem.dll
+C:\Users\Sam\Documents\_Uni Stuff\ApplicationExample - Festival Starter v2\ApplicationExample\bin\Debug\FestivalElements.pdb
+C:\Users\Sam\Documents\_Uni Stuff\ApplicationExample - Festival Starter v2\ApplicationExample\bin\Debug\SaveSystem.pdb
+C:\Users\Sam\Documents\_Uni Stuff\ApplicationExample - Festival Starter v2\ApplicationExample\obj\Debug\ApplicationExample.csprojResolveAssemblyReference.cache
+C:\Users\Sam\Documents\_Uni Stuff\ApplicationExample - Festival Starter v2\ApplicationExample\obj\Debug\MainWindow.g.cs
+C:\Users\Sam\Documents\_Uni Stuff\ApplicationExample - Festival Starter v2\ApplicationExample\obj\Debug\ResizeCanvas.g.cs
+C:\Users\Sam\Documents\_Uni Stuff\ApplicationExample - Festival Starter v2\ApplicationExample\obj\Debug\App.g.cs
+C:\Users\Sam\Documents\_Uni Stuff\ApplicationExample - Festival Starter v2\ApplicationExample\obj\Debug\ApplicationExample_MarkupCompile.cache
+C:\Users\Sam\Documents\_Uni Stuff\ApplicationExample - Festival Starter v2\ApplicationExample\obj\Debug\ApplicationExample_MarkupCompile.lref
+C:\Users\Sam\Documents\_Uni Stuff\ApplicationExample - Festival Starter v2\ApplicationExample\obj\Debug\MainWindow.baml
+C:\Users\Sam\Documents\_Uni Stuff\ApplicationExample - Festival Starter v2\ApplicationExample\obj\Debug\ResizeCanvas.baml
+C:\Users\Sam\Documents\_Uni Stuff\ApplicationExample - Festival Starter v2\ApplicationExample\obj\Debug\ApplicationExample.g.resources
+C:\Users\Sam\Documents\_Uni Stuff\ApplicationExample - Festival Starter v2\ApplicationExample\obj\Debug\ApplicationExample.Properties.Resources.resources
+C:\Users\Sam\Documents\_Uni Stuff\ApplicationExample - Festival Starter v2\ApplicationExample\obj\Debug\ApplicationExample.csproj.GenerateResource.Cache
+C:\Users\Sam\Documents\_Uni Stuff\ApplicationExample - Festival Starter v2\ApplicationExample\obj\Debug\ApplicationExample.csproj.CoreCompileInputs.cache
+C:\Users\Sam\Documents\_Uni Stuff\ApplicationExample - Festival Starter v2\ApplicationExample\obj\Debug\ApplicationExample.exe
+C:\Users\Sam\Documents\_Uni Stuff\ApplicationExample - Festival Starter v2\ApplicationExample\obj\Debug\ApplicationExample.pdb

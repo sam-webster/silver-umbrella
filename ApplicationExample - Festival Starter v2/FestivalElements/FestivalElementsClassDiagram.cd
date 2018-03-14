@@ -1,0 +1,221 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="FestivalElements.Elements.Drawable.BeerTent">
+    <Position X="8.75" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAABAAAAAAAAAAAAAEAAAAQAAAAQAAAAAAAAAACA=</HashCode>
+      <FileName>Elements\Drawable\BeerTent.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="FestivalElements.Elements.Drawable.Bin">
+    <Position X="13.25" Y="4.25" Width="1.5" />
+    <InheritanceLine Type="FestivalElements.Elements.Drawable.FestivalElement" FixedFromPoint="true">
+      <Path>
+        <Point X="8" Y="7.5" />
+        <Point X="12.875" Y="7.5" />
+        <Point X="12.875" Y="5.703" />
+        <Point X="13.25" Y="5.703" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>IAAAAABAAAAAAAAAAAAAEAAAAQAAAAQAAAAAAAAAACA=</HashCode>
+      <FileName>Elements\Drawable\Bin.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="FestivalElements.Elements.Drawable.Bush">
+    <Position X="13.25" Y="0.5" Width="1.5" />
+    <InheritanceLine Type="FestivalElements.Elements.Drawable.FestivalElement" FixedFromPoint="true">
+      <Path>
+        <Point X="8" Y="3.812" />
+        <Point X="12.875" Y="3.812" />
+        <Point X="12.875" Y="1.953" />
+        <Point X="13.25" Y="1.953" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>IAAAAABAAAAAAAAAAAAAEAAAAQAAAAQAAAAAAAAAACA=</HashCode>
+      <FileName>Elements\Drawable\Bush.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="FestivalElements.Elements.Drawable.CampingZone">
+    <Position X="11" Y="8" Width="1.5" />
+    <InheritanceLine Type="FestivalElements.Elements.Drawable.FestivalElement" FixedFromPoint="true">
+      <Path>
+        <Point X="7.25" Y="9.818" />
+        <Point X="7.25" Y="11.28" />
+        <Point X="11.75" Y="11.28" />
+        <Point X="11.75" Y="10.905" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>IAAAAABAAAAAAAAAAAAAEAAAAQAAAAQAAAAAAAAAACA=</HashCode>
+      <FileName>Elements\Drawable\CampingZone.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="FestivalElements.Elements.Drawable.FairGround">
+    <Position X="15.5" Y="4.25" Width="1.5" />
+    <InheritanceLine Type="FestivalElements.Elements.Drawable.FestivalElement" FixedFromPoint="true">
+      <Path>
+        <Point X="8" Y="7.5" />
+        <Point X="15.125" Y="7.5" />
+        <Point X="15.125" Y="5.703" />
+        <Point X="15.5" Y="5.703" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>IAAAAABAAAAAAAAAAAAAEAAAAQAAAAQAAAAAAAAAACA=</HashCode>
+      <FileName>Elements\Drawable\FairGround.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="FestivalElements.Elements.Drawable.FestivalElement">
+    <Position X="6.5" Y="0.5" Width="1.5" />
+    <NestedTypes>
+      <Enum Name="FestivalElements.Elements.Drawable.FestivalElement.FestivalElementType" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Elements\Drawable\FestivalElement.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>ICTAAAA4IAAQAABBAIJBKCQAAgQkAAEABFAAITAAYAA=</HashCode>
+      <FileName>Elements\Drawable\FestivalElement.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FestivalElements.Elements.Drawable.FoodTent">
+    <Position X="8.75" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAABAAAAAAAAAAAAAEAAAAQAAAAQAAAAAAAAAACA=</HashCode>
+      <FileName>Elements\Drawable\FoodTent.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="FestivalElements.Elements.Drawable.Shop">
+    <Position X="15.5" Y="0.5" Width="1.5" />
+    <InheritanceLine Type="FestivalElements.Elements.Drawable.FestivalElement" FixedFromPoint="true">
+      <Path>
+        <Point X="8" Y="3.812" />
+        <Point X="15.125" Y="3.812" />
+        <Point X="15.125" Y="1.953" />
+        <Point X="15.5" Y="1.953" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>IAAAAABAAAAAAAAAAAAAEAAAAQAAAAQAAAAAAAAAACA=</HashCode>
+      <FileName>Elements\Drawable\Shop.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="FestivalElements.Elements.Drawable.Square">
+    <Position X="8.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAABAAAAAAAAAAAAAEAAAAQAAAAQAAAAAAAAAACA=</HashCode>
+      <FileName>Elements\Drawable\Square.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="FestivalElements.Elements.Drawable.Stage">
+    <Position X="13.25" Y="8" Width="1.5" />
+    <InheritanceLine Type="FestivalElements.Elements.Drawable.FestivalElement" FixedFromPoint="true">
+      <Path>
+        <Point X="7.25" Y="9.818" />
+        <Point X="7.25" Y="11.28" />
+        <Point X="14" Y="11.28" />
+        <Point X="14" Y="10.905" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>IAAAAABAAAAAAAAAAAAAEAAAAQAAAAQAAAAAAAAAACA=</HashCode>
+      <FileName>Elements\Drawable\Stage.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="FestivalElements.Elements.Drawable.Toilet">
+    <Position X="11" Y="4.25" Width="1.5" />
+    <InheritanceLine Type="FestivalElements.Elements.Drawable.FestivalElement" FixedFromPoint="true">
+      <Path>
+        <Point X="8" Y="7.5" />
+        <Point X="10.625" Y="7.5" />
+        <Point X="10.625" Y="5.703" />
+        <Point X="11" Y="5.703" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>IAAAAABAAAAAAAAAAAAAEAAAAQAAAAQAAAAAAAAAACA=</HashCode>
+      <FileName>Elements\Drawable\Toilet.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="FestivalElements.Elements.Drawable.Triangle">
+    <Position X="11" Y="0.5" Width="1.5" />
+    <InheritanceLine Type="FestivalElements.Elements.Drawable.FestivalElement" FixedFromPoint="true">
+      <Path>
+        <Point X="8" Y="3.812" />
+        <Point X="10.625" Y="3.812" />
+        <Point X="10.625" Y="1.953" />
+        <Point X="11" Y="1.953" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>IAAAAABAAAAAAAAAAAAAEAAAAQAAAAQAAAAAAAAAACA=</HashCode>
+      <FileName>Elements\Drawable\Triangle.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="FestivalElements.Elements.Saveable.SaveableCanvas">
+    <Position X="3" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAAAAAAAEAAAAAAAgAAAAAABAAAAKIEAAQA=</HashCode>
+      <FileName>Elements\Saveable\SaveableCanvas.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FestivalElements.Elements.Saveable.SaveableFE">
+    <Position X="4.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAIAAAQAAAAAAAAAAEAAKAEAYQA=</HashCode>
+      <FileName>Elements\Saveable\SaveableFE.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FestivalElements.Elements.Saveable.SaveFile">
+    <Position X="3" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAgAAAA=</HashCode>
+      <FileName>Elements\Saveable\SaveFile.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="saveCanvas" />
+    </ShowAsAssociation>
+    <ShowAsCollectionAssociation>
+      <Field Name="saveElements" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="FestivalElements.Tools.Tools">
+    <Position X="4.75" Y="6.25" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Enum Name="FestivalElements.Tools.Tools.ToolType" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Tools\Tools.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Tools\Tools.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="FestivalElements.Interfaces.ICountable" Collapsed="true">
+    <Position X="3" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAIAAAAAAAAAAAAAAAAABAAQAAAAAAAAAAA=</HashCode>
+      <FileName>Interfaces\ICountable.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
